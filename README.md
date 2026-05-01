@@ -1,2 +1,2 @@
-# CheckersGruopProject
+# CheckersGroupProject
 progetto di gruppo
