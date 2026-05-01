@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -6,18 +8,16 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
-using System.Drawing;
 
-namespace CheckersGruopProject
+namespace CheckersGruopProject.Elements.BackGroundBoard
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Logica di interazione per Black.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Black : Window
     {
-        public MainWindow()
+        public Black()
         {
             InitializeComponent();
         }
