@@ -9,3 +9,6 @@ Applicazione WPF del gioco "dama" con implementazione di un algoritmo ricorsivo 
 ## IMPLEMENTAZIONI FUTUTRE
 - Animazione di vittoria e sconfitta
 - Possibilita' di mangiare piu' pedine in una singola mossa nel caso esse siano posizionate nei punti adatti 
+## RoadMap
+- //
+## 
