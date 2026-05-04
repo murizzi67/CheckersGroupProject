@@ -11,4 +11,11 @@ Applicazione WPF del gioco "dama" con implementazione di un algoritmo ricorsivo 
 - Possibilita' di mangiare piu' pedine in una singola mossa nel caso esse siano posizionate nei punti adatti 
 ## RoadMap
 - //
-## 
+## Walktrough esperienza utente
+- //
+## Meccaniche di gioco
+- fine gioco /vittoria sconfitta
+- controlli o mosse
+- eventi al di fuori del controllo del utente
+- (mockup interfaccia)
+## scaletta lavoro diviso in parti e assegnazioni
