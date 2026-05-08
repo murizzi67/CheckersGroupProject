@@ -12,9 +12,16 @@ Applicazione WPF del gioco "dama" con implementazione di un algoritmo ricorsivo 
 ## RoadMap
 - //
 ## Walktrough esperienza utente
-- //
+- Menu introduzione
+- Scelta difficoltà
+- Partita
+  -Selezione Pedina
+  -De-selezione pedina
+  -Movimento sulla scacchiera
+  -Possibilità di mangiare pedine
+-Schermata finale di vittoria/sconfitta
 ## Meccaniche di gioco
-- fine gioco /vittoria sconfitta
+- fine gioco / vittoria sconfitta
 - controlli o mosse
 - eventi al di fuori del controllo del utente
 - (mockup interfaccia)
